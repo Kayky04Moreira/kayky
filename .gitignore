@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+exports/*.txt
+exports/*.csv
+entrega/
+scripts/gerar_identificacao.py
+requirements.txt
