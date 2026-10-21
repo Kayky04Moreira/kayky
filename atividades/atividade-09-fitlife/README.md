@@ -31,6 +31,12 @@ Implementar e testar um módulo funcional da academia FitLife, aplicando classes
 - Java 17 ou superior.
 - Apache Maven 3.9 ou superior.
 
+## Repositório no GitHub
+
+Código publicado em:
+
+https://github.com/Kayky04Moreira/kayky/tree/main/atividades/atividade-09-fitlife
+
 ## Como executar
 
 No terminal, dentro desta pasta:
