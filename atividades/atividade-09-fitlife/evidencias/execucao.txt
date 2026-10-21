@@ -1,0 +1,19 @@
+FITLIFE - DEMONSTRAÇÃO DO SISTEMA
+
+PLANOS CADASTRADOS
+- Mensal: R$ 100,00
+- Premium: R$ 250,00
+
+CLIENTES E TREINOS
+- Kayky Moreira Assunção | kayky@fitlife.com | 22 anos | Premium
+  Treino A - Peito e tríceps: Supino reto 4x10; Tríceps na polia 3x12
+- Mateus Bonifácio Nolasco | mateus@fitlife.com | 23 anos | Mensal
+
+PAGAMENTOS
+- Kayky Moreira Assunção | Premium | R$ 250,00 | APROVADO
+- Mateus Bonifácio Nolasco | Mensal | R$ 100,00 | APROVADO
+
+VALIDAÇÃO E TRATAMENTO DE ERRO
+- Erro tratado corretamente: E-mail inválido.
+
+Sistema executado com sucesso.

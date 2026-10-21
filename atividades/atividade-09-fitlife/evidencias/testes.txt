@@ -1,0 +1,13 @@
+FITLIFE - RESULTADO DOS TESTES AUTOMATIZADOS
+Data: 21/10/2026
+
+ClienteTest: 5 testes aprovados
+PlanoTest: 3 testes aprovados
+AcademiaServiceTest: 2 testes aprovados
+PagamentoServiceTest: 3 testes aprovados
+
+Total: 13 testes
+Falhas: 0
+Erros: 0
+Ignorados: 0
+Resultado da compilação: BUILD SUCCESS
