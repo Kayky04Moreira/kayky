@@ -1,0 +1,15 @@
+TESTES AUTOMATIZADOS — SISTEMA DE OFICINA MECÂNICA
+Data: 28/10/2026
+Comando: python -m unittest discover -s tests -v
+
+Foram verificados:
+- cadastro e validação de veículos;
+- placas no padrão antigo e Mercosul;
+- classe abstrata e polimorfismo dos serviços;
+- cálculo da troca de óleo e do alinhamento;
+- criação, composição, resumo e total da ordem;
+- cadastro, busca e regras da oficina;
+- exceções para itens inexistentes ou dados inválidos.
+
+Resultado: 20 testes executados — todos aprovados (OK).
+

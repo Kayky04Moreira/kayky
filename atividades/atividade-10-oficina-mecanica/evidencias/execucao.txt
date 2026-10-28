@@ -1,0 +1,14 @@
+EXECUÇÃO DE DEMONSTRAÇÃO — SISTEMA DE OFICINA MECÂNICA
+Data: 28/10/2026
+Comando: python main.py --demo
+
+ORDEM DE SERVIÇO Nº 1
+Cliente: Kayky Moreira Assunção
+Veículo: Honda Civic (2022) — placa ABC1D23
+Serviços:
+  1. Troca de óleo: R$ 250,00
+  2. Alinhamento: R$ 150,00
+TOTAL: R$ 400,00
+
+Resultado: demonstração concluída com sucesso.
+
