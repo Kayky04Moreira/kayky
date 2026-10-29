@@ -58,12 +58,8 @@ python -m unittest discover -s tests -v
 5. Escolha `5` para visualizar o orçamento completo.
 6. Escolha `0` para sair.
 
-## Integrantes
+## Aluno
 
-- Lucas Borges Marra
-- João Pedro Rodrigues Silva
-- Mateus Bonifácio Nolasco
-- João Pedro Rodrigues Venâncio
 - Kayky Moreira Assunção — matrícula 406392088938
 
 Curso: Ciência da Computação — 6º período noturno  
